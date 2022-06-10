@@ -1,0 +1,2 @@
+# asic_mapper
+Company records are an essential part of many investigations. This script takes company record PDFs from the Australian Securities &amp; Investments Commission (ASIC) and converts them into an interactive network graph, in order to more easily find otherwise obscure connections between companies.  It uses the fitz library to tabularise PDFs, then PyPDF2 to map out the interactive network graph.  
